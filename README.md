@@ -8,6 +8,6 @@ I heard that some of you were wanting to get some of Kaycee's instagram photos f
 
 Github is a place mainly used when software developers publish and store code for others to use or contribute to. Git is a version control system that tracks versions of code, text, or whatever, and makes it easy for others to track the history and progress of the project. 
 
-Since the purpose of this repository (project) is to simple download the photos and not add anything back, you only need to download Git on your computer. Don't worry, this isn't any large software download. In fact, it's really just enabling Git from Apple's developers tools on your computer, something every Apple computer would come previsouly downloaded but they figured that not everyone that uses their computers would write code or use Git, so they left it out but easy to enable. 
+Since the purpose of this repository (project) is to simply download the photos and not contribute back to the project, you only need to download Git on your computer. Don't worry, this isn't any large software download. In fact, it's really just enabling Git from Apple's developers tools on your computer, something every Apple computer would come previsouly downloaded but they figured that not everyone that uses their computers would write code or use Git, so they left it out but made it easy to enable. 
 
 
