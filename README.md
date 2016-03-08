@@ -24,7 +24,7 @@ Copy and past this into terminal `cd desktop/kaycee/` and then hit enter. Then c
 
 #### Step Four
 
-Once Git has been downloaded, copy and paste this `git clone https://github.com/a-a-ron/kaycee.git` again in your terminal and then git enter - A few lines of information will appear on the terminal screen and the information will be downloaded into the file you created on your desktkop.
+Once Git has been downloaded, copy and paste this `git clone https://github.com/a-a-ron/kaycee.git` again in your terminal and then git enter - A few lines of information will appear on the terminal screen and the information will be downloaded into the file you created on your desktop.
 
 
 
