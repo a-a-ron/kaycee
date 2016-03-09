@@ -20,7 +20,7 @@ Open up terminal on your computer - If you don't know what "terminal" is, that's
 
 #### Step Three
 
-Copy and past this into terminal `cd desktop/kaycee/` and then hit enter. Then copy and paste this into terminal `git clone https://github.com/a-a-ron/kaycee.git` and then hit enter - The command will attempt to copy the images into the folder you created on your desktop but will fail becasue you don't have "Git" installed. You will be prompted to download Git from the Apple Developer Tools, click yes.
+Copy and past this into terminal `cd desktop/kaycee/` and then hit enter. Then copy and paste this into terminal `git clone https://github.com/a-a-ron/kaycee.git` and then hit enter - The command will attempt to copy the images into the folder you created on your desktop but will fail becasue you don't have "Git" installed. You will be prompted to download Git from the command line tools, click install.
 
 #### Step Four
 
